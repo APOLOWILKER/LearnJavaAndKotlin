@@ -12,6 +12,36 @@ Olá pessoal! Meu nome é **Apolo Wilker** e estou embarcando em uma nova jornad
 
 Neste repositório, pretendo compartilhar minhas experiências, aprendizados e recursos com vocês, seja você um iniciante ou intermediário no desenvolvimento mobile. 
 
+### Como o repositorio esta organizado.
+
+A forma mais organizada que encontrei de separar as anotações exemplos de código e exercicos foi dessa forma, espero que esteja fácil.
+Qualquer duvida ou contribuição fique a vontade.
+
+A estrutura é sempre essa Tema -> Subtemas(teorias) > Exemplo > Exercicios
+
+```
+repositorio-aprendizado
+├── POO
+│   ├── Conceitos-Fundamentais
+│   │   ├── classes.md (teoria)
+│   │   ├── objetos.md (teoria)
+│   │   ├── atributos.md (teoria)
+│   │   ├── metodos.md (teoria)
+│   │   └── Exemplos
+│   │       ├── exemplo-classe-simples.java
+│   │       └── exemplo-heranca.java
+│   │   └── Exercicios
+│   │       ├── exercicio-classe-simples.java
+│   │       └── exercicio-heranca.java
+│   ├── Herança
+│   │   ├── conceitos.md (teoria)
+│   │   ├── tipos-heranca.md (teoria)
+│   │   └── implementacao.md (teoria)
+│   │   └── ... (exemplos, exercícios)
+│   └── ... (outros temas e subtemas)
+└── ... (outros temas)
+```
+
 ### Objetivo
 
 Meu objetivo principal é criar um espaço colaborativo onde possamos trocar conhecimentos sobre desenvolvimento mobile com Java e Kotlin. Aqui você encontrará:
