@@ -1,10 +1,46 @@
 ## Migrando de Web para Mobile: Uma Jornada de Aprendizagem Compartilhada
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,java&perline=14" />
+  </a>
+</p>
+
 ### Introdução
 
 Olá pessoal! Meu nome é **Apolo Wilker** e estou embarcando em uma nova jornada: migrar da área de desenvolvimento web para o mobile. Tenho 2 anos de experiência programando e estou cursando Ciência da Computação. 
 
 Neste repositório, pretendo compartilhar minhas experiências, aprendizados e recursos com vocês, seja você um iniciante ou intermediário no desenvolvimento mobile. 
+
+### Como o repositorio esta organizado.
+
+A forma mais organizada que encontrei de separar as anotações exemplos de código e exercicos foi dessa forma, espero que esteja fácil.
+Qualquer duvida ou contribuição fique a vontade.
+
+A estrutura é sempre essa Tema -> Subtemas(teorias) > Exemplo > Exercicios
+
+```
+repositorio-aprendizado
+├── POO
+│   ├── Conceitos-Fundamentais
+│   │   ├── classes.md (teoria)
+│   │   ├── objetos.md (teoria)
+│   │   ├── atributos.md (teoria)
+│   │   ├── metodos.md (teoria)
+│   │   └── Exemplos
+│   │       ├── exemplo-classe-simples.java
+│   │       └── exemplo-heranca.java
+│   │   └── Exercicios
+│   │       ├── exercicio-classe-simples.java
+│   │       └── exercicio-heranca.java
+│   ├── Herança
+│   │   ├── conceitos.md (teoria)
+│   │   ├── tipos-heranca.md (teoria)
+│   │   └── implementacao.md (teoria)
+│   │   └── ... (exemplos, exercícios)
+│   └── ... (outros temas e subtemas)
+└── ... (outros temas)
+```
 
 ### Objetivo
 
