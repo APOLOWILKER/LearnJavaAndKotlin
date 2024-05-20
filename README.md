@@ -1,5 +1,11 @@
 ## Migrando de Web para Mobile: Uma Jornada de Aprendizagem Compartilhada
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,java&perline=14" />
+  </a>
+</p>
+
 ### Introdução
 
 Olá pessoal! Meu nome é **Apolo Wilker** e estou embarcando em uma nova jornada: migrar da área de desenvolvimento web para o mobile. Tenho 2 anos de experiência programando e estou cursando Ciência da Computação. 
